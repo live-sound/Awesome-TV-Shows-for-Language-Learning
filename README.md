@@ -70,8 +70,6 @@ show; Termy helps when the dialogue moves beyond your current level.
 **106 entries:** original English-language productions spanning North American,
 British, Irish, Australian, and other varieties.
 
-Ten entries now include an A1 or A2 starting band.
-
 | Show | Level and language | Format | Reading support | Listening profile | Viewing pressure | Evidence |
 |---|---|---|---|---|---|---|
 | [Abbott Elementary](https://abc.com/show/e4f28254-2fc4-4cc1-b9bb-eee0564c178e) | B1–B2 · US English; school, workplace, Philadelphia and African American English | Workplace mockumentary sitcom · 21–22 min | English CC covers dialogue, speakers and sound cues; school text is rarely essential | Natural ensemble speech, quick jokes, interruptions and education slang | **Medium** — familiar situations help, but comic overlap raises the pace | [Series source](https://abc.com/show/e4f28254-2fc4-4cc1-b9bb-eee0564c178e) · Editorial |
@@ -327,9 +325,6 @@ children's television.
 
 **58 entries:** original French-language productions from France, Belgium,
 Canada, and other Francophone settings.
-
-Eight short beginner options focus on visible routines, repetition, and clear
-child-directed French.
 
 | Show | Level and language | Format | Reading support | Listening profile | Viewing pressure | Evidence |
 |---|---|---|---|---|---|---|
