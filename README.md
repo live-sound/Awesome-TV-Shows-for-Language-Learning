@@ -184,9 +184,6 @@ British, Irish, Australian, and other varieties.
 **61 entries:** original Spanish-language productions from Spain and Latin
 America, with regional varieties identified in each row.
 
-Eleven beginner entries cover native children's television and guided learner
-stories.
-
 | Show | Level and language | Format | Reading support | Listening profile | Viewing pressure | Evidence |
 |---|---|---|---|---|---|---|
 | [30 monedas](https://press.wbd.com/us/ca/property/30-coins/media-releases) | C1 · Spain · Castilian, rural speech, religious register | Supernatural horror · 55–65 min | Use Spanish CC on Max; pause on theology and whispered scenes. | Variable pace, low voices, shouting, regional speech, and dense occult vocabulary. | High — plot clues often arrive in noisy or frightening scenes. | [WBD series source](https://press.wbd.com/us/ca/property/30-coins/media-releases) · Editorial |
@@ -255,9 +252,6 @@ stories.
 
 **59 entries:** original German-language productions, primarily from Germany,
 Austria, and Switzerland.
-
-Its ten A1/A2 choices include graded Goethe and DW material alongside German
-children's television.
 
 | Show | Level and language | Format | Reading support | Listening profile | Viewing pressure | Evidence |
 |---|---|---|---|---|---|---|
