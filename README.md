@@ -1,5 +1,7 @@
 # Awesome TV Shows for Language Learning
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 > Find shows that match your English, Spanish, German, or French level and
 > viewing style.
 
@@ -51,6 +53,8 @@ adult-friendly path. Unless an official curriculum level is linked, the A1–A2
 label is still an editorial viewing estimate, not a certification.
 
 ## Watch these shows with Termy
+
+<a href="https://termy.ai/"><img src="https://termy.ai/img/termy.webp" alt="Termy" width="72"></a>
 
 [Termy](https://termy.ai/) is a language-learning companion for Windows and
 macOS. Use it while watching any show in this list to:
