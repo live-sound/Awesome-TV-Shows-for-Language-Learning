@@ -1,3 +1,5 @@
+[![Termy the sloth watching a show](https://termy.ai/img/cta-movies.webp 'Termy the sloth watching a show')](https://termy.ai)
+
 # Awesome TV Shows for Language Learning
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -54,9 +56,7 @@ label is still an editorial viewing estimate, not a certification.
 
 ## Watch these shows with Termy
 
-<a href="https://termy.ai/"><img src="https://termy.ai/img/termy.webp" alt="Termy" width="72"></a>
-
-[Termy](https://termy.ai/) is a language-learning companion for Windows and
+Termy is a language-learning companion for Windows and
 macOS. Use it while watching any show in this list to:
 
 - capture subtitles and other text directly from the screen;
